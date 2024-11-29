@@ -8,7 +8,7 @@
  - GitHub
 
 
-### Things we've been through this week:
+### What we've done so far:
 ```bash
 
 - Arethmetic Operators
