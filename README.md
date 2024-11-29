@@ -7,10 +7,11 @@
  - javascript
 
 ```bash
-### Things we've been through:
 
- - Arethmetic Operators
- - If/else statements
+###Things we've been through:
+
+- Arethmetic Operators
+- If/else statements
 
 
 > [!NOTE]
