@@ -16,4 +16,5 @@
 - Random number generator
 - Event listener 
 - String methods
+- User input
 - Arrays
