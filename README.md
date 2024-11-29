@@ -1,6 +1,5 @@
 ﻿# Lesson week 2 25-29.11.2024
 
-## The Aim
  What I've learned this week
 
  - html
@@ -8,7 +7,6 @@
  - javascript
 
 ```bash
-
 ### Things we've been through:
 
  - Arethmetic Operators
