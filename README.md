@@ -16,7 +16,3 @@
 - Random number generator
 - String methods
 - Arrays
-
-
-> [!NOTE]
-> Useful information.
