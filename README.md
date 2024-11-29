@@ -14,5 +14,6 @@
 - Arethmetic Operators
 - If/else statements
 - Random number generator
+- Event listener 
 - String methods
 - Arrays
