@@ -6,9 +6,9 @@
  - css
  - javascript
 
-```bash
 
-###Things we've been through:
+### Things we've been through this week:
+```bash
 
 - Arethmetic Operators
 - If/else statements
