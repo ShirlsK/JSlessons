@@ -13,6 +13,9 @@
 
 - Arethmetic Operators
 - If/else statements
+- Random number generator
+- String methods
+- Arrays
 
 
 > [!NOTE]
