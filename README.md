@@ -2,9 +2,10 @@
 
  What I've learned this week
 
- - html
- - css
- - javascript
+ - HTML
+ - CSS
+ - JavaScript
+ - GitHub
 
 
 ### Things we've been through this week:
